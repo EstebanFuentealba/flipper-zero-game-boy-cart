@@ -1,0 +1,12 @@
+App(
+    appid="gb_cart_reader",
+    name="GB Cart Reader",
+    apptype=FlipperAppType.EXTERNAL,
+    entry_point="gb_cart_app",
+    stack_size=2 * 1024,
+    fap_category="GPIO",
+    fap_icon="icons/gb_cart.png",
+    fap_author="Tu Nombre",
+    fap_version="1.0",
+    fap_description="Lector de cartuchos de Game Boy para Flipper Zero",
+)
