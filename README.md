@@ -2,6 +2,8 @@
 
 Proof of Concept: Reading a Game Boy Cartridge Using Flipper Zero and Two MCP23S17 Chips via SPI
 
+![IMG_20250328_101336](https://github.com/user-attachments/assets/b8fa384d-7dc1-4d1a-b090-c5174666342c)
+
 
 ## Pins
 
